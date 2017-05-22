@@ -1,6 +1,9 @@
-//PayCalculator.cpp
-// This program stores, in two vectors, the hours worked by 5
+// PayrollCalculator.cpp
+// This program stores, in two vectors, the hours worked by 
 // employees, and their hourly pay rates.
+// Author: Jose Luis Castillo
+// Date Sunday, May 21, 2017
+
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
